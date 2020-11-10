@@ -1,2 +1,4 @@
 # engine
-NASA减速机CO - PSO 优化
+NASA reducer optimization(based on co-pso-bas)
+
+MATLAB 2017
